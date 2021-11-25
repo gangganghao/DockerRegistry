@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+FROM ghcr.io/kedacore/keda-metrics-apiserver:2.4.0
